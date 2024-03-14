@@ -161,13 +161,13 @@ SWATH_AREA_ID_LISTS = [
 # very few valid data points. If the values were 1.0, 1.0, 1.0 then the model would be
 # constrained to the one developed for North Flinders reef.
 MODEL_PARAM_ADJ_Lbj_K_Lwj_RATIO = [
-    [1.2, 1.2, 1.2],
-    [1.2, 1.2, 1.2],
-    [1.2, 1.2, 1.2],
-    [1.2, 1.2, 1.2],
-    [1.2, 1.2, 1.2],
-    [1.2, 1.2, 1.2],
-    [1.2, 1.2, 1.2]
+    [2, 2, 2],
+    [2, 2, 2],
+    [2, 2, 2],
+    [2, 2, 2],
+    [2, 2, 2],
+    [2, 2, 2],
+    [2, 2, 2]
 ]
 
 # The fitted curve for the high and low reflectance don't correspond to a reflectance
@@ -277,7 +277,7 @@ INITIAL_Kj = {
     'B1':0.038,
     'B2': 0.045,
     'B3': 0.084,
-    'B4': 0.35
+    'B4': 0.4
 }
 
 # Lbj is the scaling of the brightness curve above the background
@@ -287,7 +287,7 @@ INITIAL_Lbj = {
         'B1': 2680,
         'B2': 3052,
         'B3': 3366,
-        'B4': 12350
+        'B4': 8000
         },
     'Low': {
         'B1': 1536,
