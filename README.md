@@ -4,7 +4,7 @@ This code repository contains scripts for estimating benthic reflectance derived
 
 More details are provided on the projects in the [metadata record](https://doi.org/10.26274/s2a8-nw72) for this repository.
 
-![Preview of Flinders Reefs in True Colour and estimated benthic reflectance](new-data/metadata/CS_NESP-MaC-2-3_AIMS_Benth-Reflect_Flinders-TrueColour-Benthic.jpeg)
+![Preview of Flinders Reefs in True Colour and estimated benthic reflectance](media/metadata/CS_NESP-MaC-2-3_AIMS_Benth-Reflect_Flinders-TrueColour-Benthic.jpeg)
 
 A high level overview of the analysis is:
 1. Cut up the imagery and bathymetry into the analysis areas, aligning the bathymetry to the the same resolution and pixel alignment as the satellite imagery.
