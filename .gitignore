@@ -1,0 +1,7 @@
+/literature/**
+/private-src-data/**
+/temp/**
+/working/data-cache/**
+/working/depth-reflect/**
+__pycache__
+output/5*
