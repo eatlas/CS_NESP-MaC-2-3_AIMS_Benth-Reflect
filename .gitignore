@@ -3,5 +3,5 @@
 /temp/**
 /working/data-cache/**
 /working/depth-reflect/**
-__pycache__
+/__pycache__
 output/5*
